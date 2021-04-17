@@ -1,4 +1,8 @@
-﻿using System;
+﻿//dışarıdan girilen bir String içeriğindeki palindromları bulan ve bunları karekter boyutuna 
+//göre büyükten küçüğe sıralayan, aynı palindromlardan birden fazla kez var ise bunların 
+//kaç kere tekrarlandığını bulan bir uygulama yazınız.
+
+using System;
 using System.Collections;
 
 namespace StringPolindromCheck
@@ -57,7 +61,6 @@ namespace StringPolindromCheck
                 {
                     Console.WriteLine(polindroms[j] + " polindromu metinde " + (sayac - 1) + " kez tekrar etmiştir.");
                 }
-                
 
             }
 
