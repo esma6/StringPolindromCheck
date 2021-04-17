@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPolindromCheck", "StringPolindromCheck\StringPolindromCheck.csproj", "{B523F7A0-AD75-46DE-84C6-B477E55F52DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B523F7A0-AD75-46DE-84C6-B477E55F52DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B523F7A0-AD75-46DE-84C6-B477E55F52DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B523F7A0-AD75-46DE-84C6-B477E55F52DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B523F7A0-AD75-46DE-84C6-B477E55F52DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2317BBB-7F64-44CA-A7A5-3C46110CD5FC}
+	EndGlobalSection
+EndGlobal
