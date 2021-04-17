@@ -1,0 +1,2 @@
+# StringPolindromCheck
+Program çıktısı:
